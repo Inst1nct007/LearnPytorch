@@ -1,0 +1,9 @@
+1. WAP to create a tensor from a list with tensor().
+
+2. WAP to create a tensor from a np ndarray using from_numpy().
+
+3. WAP to create a tensor of 1s from another tensor using ones_like().
+
+4. WAP to create a tensor of 0s from another tensor using zeros_like().
+
+5. WAP to create a tensor of random no.s from another tensor using rand_like().
